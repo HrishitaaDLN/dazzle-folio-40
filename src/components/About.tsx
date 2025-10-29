@@ -6,18 +6,17 @@ const About = () => {
         </h2>
         
         <div className="card-glass rounded-2xl p-8 md:p-12 space-y-6 animate-fade-in">
-          <p className="text-lg text-muted-foreground leading-relaxed">I’m a Data Scientist & Machine Learning Engineer who loves teaching data to think.
-From research labs to production systems, I build intelligent pipelines that extract meaning, predict behavior, and drive measurable impact.
+          <p className="text-lg text-muted-foreground leading-relaxed">I’m a Data Scientist and Machine Learning Engineer driven by one simple question — what story is the data trying to tell?
 
-Currently pursuing my Master’s in Computer Science (Data Science focus) at UIC, I blend statistical insight with engineering precision to create models that don’t just work — they scale.
+My journey began with curiosity: understanding how numbers, text, and patterns can explain human behavior and power intelligent decisions. That curiosity evolved into a passion for building systems that think — and learn.
 
-I’m passionate about bridging the gap between raw data and real decisions, turning experiments into products, and ideas into impact.</p>
+Today, I combine research, engineering, and analytics to craft machine learning solutions that move beyond experimentation and into real-world impact. Whether it’s teaching a model to read policy documents, designing scalable pipelines, or finding the signal in noisy datasets, I live for that moment when insight turns into action.
+
+Currently, I’m pursuing my Master’s in Computer Science (Data Science) at the University of Illinois Chicago, where I research and build models that combine statistical depth with engineering precision. Previously, at OpenText Technologies, I designed and optimized data systems that processed thousands of documents daily, reducing latency, improving accuracy, and empowering smarter decisions across teams.</p>
           
-          <p className="text-lg text-muted-foreground leading-relaxed">
-            My approach combines technical excellence with creative problem-solving, 
-            ensuring every project not only meets but exceeds expectations. I thrive on 
-            challenges and continuously push the boundaries of what's possible.
-          </p>
+          <p className="text-lg text-muted-foreground leading-relaxed">To me, data science isn’t just about algorithms — it’s about creating intelligence with purpose. Every dataset is a puzzle, every model a hypothesis, and every result a story waiting to be told. I believe in building AI that not only performs but also explains, scales, and makes a difference.
+
+When I’m not coding or tuning models, you’ll probably find me exploring AI ethics, writing about explainable ML, or experimenting with creative uses of NLP — anything that blurs the line between human insight and machine intelligence.</p>
           
           <div className="pt-6">
             <h3 className="text-2xl font-semibold mb-4">What I Do</h3>

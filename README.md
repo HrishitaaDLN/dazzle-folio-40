@@ -70,13 +70,15 @@ This research bridges AI, data science, and policy — making sustainability **m
    ```bash
    git clone https://github.com/HrishitaaDLN/dazzle-folio-40.git
    cd dazzle-folio-40
-Install dependencies
 
-2.   npm install
 
-      Run the development server
+2.   Install dependencies
+   
+      npm install     
 
-3.    npm run dev
+3.    Run the development server
+
+     npm run dev
    
       Open in browser
 

@@ -6,13 +6,13 @@ const About = () => {
         </h2>
         
         <div className="card-glass rounded-2xl p-8 md:p-12 space-y-6 animate-fade-in">
-          <p className="text-lg text-muted-foreground leading-relaxed">I’m a Data Scientist and Machine Learning Engineer driven by one simple question — what story is the data trying to tell?
+          <p className="text-lg text-muted-foreground leading-relaxed">I teach data to tell stories — and build machines that listen.
 
-My journey began with curiosity: understanding how numbers, text, and patterns can explain human behavior and power intelligent decisions. That curiosity evolved into a passion for building systems that think — and learn.
+I’m a Data Scientist & Machine Learning Engineer who loves turning messy data into elegant, intelligent systems. From NLP pipelines that read policy documents to predictive models that drive strategy, I design solutions that learn fast and deliver faster.
 
-Today, I combine research, engineering, and analytics to craft machine learning solutions that move beyond experimentation and into real-world impact. Whether it’s teaching a model to read policy documents, designing scalable pipelines, or finding the signal in noisy datasets, I live for that moment when insight turns into action.
+Currently pursuing my Master’s in Computer Science (Data Science) at UIC, I blend the scientist’s curiosity with the engineer’s precision — because great models don’t just predict; they create impact.
 
-Currently, I’m pursuing my Master’s in Computer Science (Data Science) at the University of Illinois Chicago, where I research and build models that combine statistical depth with engineering precision. Previously, at OpenText Technologies, I designed and optimized data systems that processed thousands of documents daily, reducing latency, improving accuracy, and empowering smarter decisions across teams.</p>
+My world revolves around code, curiosity, and the thrill of making ideas work at scale — always guided by a deep respect for AI ethics, transparency, and responsible innovation. I believe intelligence is powerful only when it’s human-centered, explainable, and fair.</p>
           
           <p className="text-lg text-muted-foreground leading-relaxed">To me, data science isn’t just about algorithms — it’s about creating intelligence with purpose. Every dataset is a puzzle, every model a hypothesis, and every result a story waiting to be told. I believe in building AI that not only performs but also explains, scales, and makes a difference.
 

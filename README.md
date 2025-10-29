@@ -92,7 +92,7 @@ Currently pursuing my M.S. in Computer Science (Data Science) at University of I
 I’m passionate about AI ethics, impact-driven ML, and scalable intelligence systems.
 
 📧 Contact: ldharr@uic.edu
-🌐 Portfolio: My Portfolio Website
+🌐 Portfolio: (https://portfolio-ldhar-hrishitaa-70.vercel.app/)
 
 ----------------------------------
 

@@ -1,73 +1,102 @@
-# Welcome to your Lovable project
+#  Hrishitaa Dharmavarapu — Portfolio
 
-## Project info
+A modern, interactive portfolio built with **React + TypeScript + TailwindCSS**, designed to showcase my work as a **Data Scientist and Machine Learning Engineer**.  
+It highlights cutting-edge AI projects, research initiatives, and real-world data-driven applications.
 
-**URL**: https://lovable.dev/projects/b7c16192-03a0-4683-bff3-e0844689045f
+---
 
-## How can I edit this code?
+##  Overview
 
-There are several ways of editing your application.
+This portfolio represents my journey in **AI, Machine Learning, and Data Science**, blending technical depth with creativity.  
+It features end-to-end ML projects, interactive demos, and research in **AI for Sustainability**.
 
-**Use Lovable**
+ **Core Focus Areas**
+- Machine Learning & Predictive Modeling  
+- NLP & Generative AI (LLMs, RAG)  
+- Data Visualization & Analytics Dashboards  
+- AI for Climate and Sustainability Research  
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/b7c16192-03a0-4683-bff3-e0844689045f) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+##  Featured Projects
 
-**Use your preferred IDE**
+###  [FinGptPro](https://fingptpro-ldhar.streamlit.app/)
+A financial document intelligence tool powered by **LLMs and RAG**.  
+Parses SEC filings, extracts sentiment, and generates insights for decision-makers.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- **Tech:** Python, FastAPI, PyTorch, Streamlit, Embeddings, RAG  
+- **Impact:** Automates financial analysis and drives data-informed investment strategies.  
+- **GitHub:** [FinGptPro Repository](https://github.com/HrishitaaDLN/FinGptPro)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+###  [Customer Churn Survival Analysis](https://customer-churn-survival-analysis-ldhar.streamlit.app/)
+Built a survival-analysis pipeline for modeling customer lifetimes and churn probability.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- **Tech:** Python, Scikit-learn, Lifelines, Streamlit, SQL  
+- **Impact:** Helps companies identify churn patterns and improve retention rates.  
+- **GitHub:** [Customer Churn Repository](https://github.com/HrishitaaDLN/Customer-Churn-Survival-Analysis)
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+##  Research Project
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+###  AI for Sustainability
+**Under Prof. Selva Nadarajah, University of Illinois Chicago**
 
-**Edit a file directly in GitHub**
+Developing an **LLM-powered analytics system** to assess city-level sustainability performance.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- Analyzed **100+ municipal climate-action reports**.  
+- Extracted & scored sustainability actions across **energy, waste, and transport sectors** using **C40 guidelines**.  
+- Integrated **Google Gemini** for information extraction and semantic policy understanding.  
 
-**Use GitHub Codespaces**
+**Impact:**  
+This research bridges AI, data science, and policy — making sustainability **measurable, comparable, and actionable**, helping cities accelerate their climate goals.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+##  Tech Stack
 
-This project is built with:
+- **Frontend:** React, TypeScript, Vite, TailwindCSS  
+- **UI Components:** ShadCN/UI, Lucide Icons  
+- **Hosting:** Lovable.dev / Vercel  
+- **Data Projects:** Python, FastAPI, Streamlit, Scikit-learn, PyTorch, Gemini API  
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+##  Setup Instructions
 
-Simply open [Lovable](https://lovable.dev/projects/b7c16192-03a0-4683-bff3-e0844689045f) and click on Share -> Publish.
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/HrishitaaDLN/dazzle-folio-40.git
+   cd dazzle-folio-40
+Install dependencies
 
-## Can I connect a custom domain to my Lovable project?
+2.npm install
 
-Yes, you can!
+Run the development server
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+3. npm run dev
+   
+Open in browser
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+http://localhost:5173
+
+-----------------------------------
+
+## 🧑‍💻 About Me
+Hi, I’m Hrishitaa Dharmavarapu,
+a Data Scientist & ML Engineer who teaches data to tell stories — and builds machines that listen.
+
+Currently pursuing my M.S. in Computer Science (Data Science) at University of Illinois Chicago.
+I’m passionate about AI ethics, impact-driven ML, and scalable intelligence systems.
+
+📧 Contact: ldharr@uic.edu
+🌐 Portfolio: My Portfolio Website
+
+----------------------------------
+
+## License
+This project is open-source under the MIT License.
+
+“Turning messy data into elegant intelligence — one model at a time.”

@@ -4,6 +4,7 @@ import About from "@/components/About";
 import Skills from "@/components/Skills";
 import Projects from "@/components/Projects";
 import Contact from "@/components/Contact";
+import Research from "@/components/Research";
 
 const Index = () => {
   return (
@@ -14,10 +15,11 @@ const Index = () => {
         <About />
         <Skills />
         <Projects />
+        <Research />
         <Contact />
       </main>
       <footer className="bg-muted/30 py-8 text-center text-muted-foreground">
-        <p>© 2024 Portfolio. Built with passion and code.</p>
+        <p>Driven with passion and code.</p>
       </footer>
     </div>
   );

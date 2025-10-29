@@ -4,19 +4,15 @@ const Contact = () => {
   const socials = [{
     icon: Github,
     label: "GitHub",
-    href: "https://github.com"
+    href: "https://github.com/HrishitaaDLN"
   }, {
     icon: Linkedin,
     label: "LinkedIn",
-    href: "https://linkedin.com"
-  }, {
-    icon: Twitter,
-    label: "Twitter",
-    href: "https://twitter.com"
-  }, {
+    href: "https://www.linkedin.com/in/hrishitaa-dharmavarapu-ln-3420a8205/"
+  },{
     icon: Mail,
     label: "Email",
-    href: "mailto:hello@example.com"
+    href: "mailto:ldhar@uic.edu"
   }];
   return <section id="contact" className="section-padding">
       <div className="max-w-4xl mx-auto text-center">

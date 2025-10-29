@@ -91,7 +91,7 @@ a Data Scientist & ML Engineer who teaches data to tell stories — and builds m
 Currently pursuing my M.S. in Computer Science (Data Science) at University of Illinois Chicago.
 I’m passionate about AI ethics, impact-driven ML, and scalable intelligence systems.
 
-📧 Contact: ldharr@uic.edu
+📧 Contact: ldhar@uic.edu
 🌐 Portfolio: (https://portfolio-ldhar-hrishitaa-70.vercel.app/)
 
 ----------------------------------

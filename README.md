@@ -78,11 +78,9 @@ This research bridges AI, data science, and policy — making sustainability **m
 
 3.    Run the development server
 
-     npm run dev
+      npm run dev
    
-      Open in browser
-
-      http://localhost:5173
+      Open in browser: http://localhost:5173
 
 -----------------------------------
 

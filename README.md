@@ -72,15 +72,15 @@ This research bridges AI, data science, and policy — making sustainability **m
    cd dazzle-folio-40
 Install dependencies
 
-2.npm install
+2.   npm install
 
-Run the development server
+      Run the development server
 
-3. npm run dev
+3.    npm run dev
    
-Open in browser
+      Open in browser
 
-http://localhost:5173
+      http://localhost:5173
 
 -----------------------------------
 
@@ -95,8 +95,5 @@ I’m passionate about AI ethics, impact-driven ML, and scalable intelligence sy
 🌐 Portfolio: My Portfolio Website
 
 ----------------------------------
-
-## License
-This project is open-source under the MIT License.
 
 “Turning messy data into elegant intelligence — one model at a time.”
